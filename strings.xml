@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ສຽງລາວເປັນໄທ</string>
+    <string name="settings_intro">ອ່ານຂໍ້ຄວາມພາສາລາວດ້ວຍສຽງໄທ. ໃນການຕັ້ງຄ່າ Text-to-speech ຂອງ TalkBack ໃຫ້ເລືອກແອັບນີ້ເປັນເຄື່ອງຈັກສຽງທີ່ຕ້ອງການ. ເຄື່ອງຈັກສຽງຈິງທີ່ເລືອກຂ້າງລຸ່ມນີ້ ຕ້ອງຕິດຕັ້ງສຽງໄທໄວ້ແລ້ວ.</string>
+    <string name="engine_label">ເຄື່ອງຈັກທີ່ໃຊ້ອ່ານສຽງໄທ</string>
+    <string name="engine_auto">ອັດຕະໂນມັດ (ໃຊ້ Google ຖ້າມີ)</string>
+    <string name="convert_check">ແປງຕົວອັກສອນລາວເປັນໄທກ່ອນອ່ານ</string>
+    <string name="test_button">ທົດລອງອ່ານພາສາລາວ</string>
+    <string name="open_tts_button">ເປີດການຕັ້ງຄ່າ Text-to-speech ຂອງ Android</string>
+    <string name="no_engines">ບໍ່ພົບເຄື່ອງຈັກສຽງອື່ນ. ໃຫ້ຕິດຕັ້ງ Speech Services by Google.</string>
+    <string name="test_failed">ອ່ານບໍ່ໄດ້. ໃຫ້ເລືອກແອັບນີ້ເປັນເຄື່ອງຈັກສຽງ ແລະກວດວ່າໄດ້ຕິດຕັ້ງສຽງໄທແລ້ວ.</string>
+</resources>
